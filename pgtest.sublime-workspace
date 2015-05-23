@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wr",
+				"write	(?)"
+			],
+			[
+				"time",
+				"timestamp	(str)"
+			],
+			[
+				"si",
+				"signatureCache	(?)"
+			],
+			[
+				"get",
+				"getElementsByTagName(tagName)"
+			],
+			[
+				"if",
+				"if	If"
+			],
+			[
+				"pro",
+				"pro	class prototype"
+			],
+			[
+				"for",
+				"for	For"
+			],
+			[
+				"pas",
+				"parseCallback"
+			],
+			[
+				"cach",
+				"cacheSignature	{}"
+			],
+			[
+				"ti",
+				"timestamp"
+			],
+			[
+				"signa",
+				"signatureData	{}"
+			],
+			[
+				"non",
+				"nonceStr	(str)"
+			],
+			[
+				"create",
+				"createTimeStamp()"
+			],
+			[
+				"re",
+				"result	(?)"
+			],
+			[
+				"js",
+				"jsonpMongo"
+			],
+			[
+				"proto",
+				"prototype	(?)"
+			],
+			[
+				"M",
+				"MongoClient"
+			],
+			[
+				"jsonp",
+				"jsonpRemove(str)"
+			],
+			[
+				"par",
+				"parentNode	{}"
+			],
+			[
+				"getele",
+				"getElementsByName(name)"
+			],
+			[
+				"enco",
+				"encodeURIComponent(uri)"
+			],
+			[
+				"path",
+				"pathname	(str)"
+			],
+			[
+				"close",
+				"close()"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"delta",
+				"deltaTime	(num)"
+			],
+			[
+				"rea",
+				"readAsText(blob, encoding?)"
+			],
+			[
+				"File",
+				"FileReader()"
+			],
+			[
+				"Fil",
+				"FileReader()"
+			],
+			[
+				"lo",
+				"loadBytes(data)"
+			],
+			[
+				"0x",
+				"0x404040"
+			],
+			[
+				"H",
+				"HemisphereLight(skyColor, groundColor, intensity)"
+			],
+			[
+				"pl",
+				"play(name, speed, repeat)"
+			],
+			[
+				"bo",
+				"BOTTOM_MIDDLE	(str)"
+			],
+			[
+				"Vec",
+				"Vector3(x, y, z)"
+			],
+			[
+				"Ado",
+				"AdobeEdge"
+			],
+			[
+				"cont",
+				"controls"
+			],
+			[
+				"sy",
+				"syntax_scopes"
+			],
+			[
+				"rend",
+				"render(scene, camera, renderTarget, forceClear)"
+			],
+			[
+				"Se",
+				"SEA3D	{}"
+			],
+			[
+				"Light",
+				"PointLight(color, intensity, distance)"
+			],
+			[
+				"Ma",
+				"Man(name, age)"
+			],
+			[
+				"Con",
+				"MyControls"
+			],
+			[
+				"o",
+				"abort (fn)"
+			],
+			[
+				"Path",
+				"CurvePath  (class)"
+			],
+			[
+				"Trh",
+				"THREE"
+			],
+			[
+				"addE",
+				"addEventListener"
+			],
+			[
+				"sh",
+				"shadow_offset"
+			],
+			[
+				"getEL",
+				"getElementsByTagName  (function)"
+			],
+			[
+				"va",
+				"Verdana"
+			],
+			[
+				"ma",
+				"Material  (class)"
+			],
+			[
+				"Scene",
+				"SceneHandler"
+			],
+			[
+				"Sh",
+				"SceneHandler"
+			],
+			[
+				"dr",
+				"drive"
+			],
+			[
+				"Sce",
+				"SceneHandler"
+			],
+			[
+				"sho",
+				"sayHello  (function)"
+			],
+			[
+				"T",
+				"THREE"
+			],
+			[
+				"Maerial",
+				"MeshLambertMaterial  (class)"
+			],
+			[
+				"light",
+				"DirectionalLight"
+			],
+			[
+				"materi",
+				"MeshBasicMaterial  (class)"
+			],
+			[
+				"Material",
+				"Material  (class)"
+			],
+			[
+				"Sea",
+				"SEA3D"
+			],
+			[
+				"three",
+				"threeDiv"
+			],
+			[
+				"SEA",
+				"SEA3D"
+			],
+			[
+				"Three",
+				"THREE"
+			],
+			[
+				"GameOb",
+				"GameObject	*(name)"
+			],
+			[
+				"zero",
+				"zero	Vector3.*"
+			],
+			[
+				"Lerp",
+				"Lerp	Vector3.*(from, to, t)"
+			],
+			[
+				"touch",
+				"touchPick"
+			],
+			[
+				"Thr",
+				"THREE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"last_filter": "opengi",
+		"selected_items":
+		[
+			[
+				"opengi",
+				"Gist: Open Gist"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"reload",
+				"TernJS: Reload"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"seting",
+				"Preferences: Settings - User"
+			],
+			[
+				"gist open",
+				"Gist: Open Gist"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"rel",
+				"TernJS: Reload"
+			],
+			[
+				"re",
+				"TernJS: Reload"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"relo",
+				"TernJS: Reload"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"rela",
+				"TernJS: Reload"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"ju",
+				"TernJS: Jump to definition"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ternjs",
+				"TernJS: Jump to definition"
+			],
+			[
+				"ten",
+				"TernJS: Next Occurance"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add Remote"
+			],
+			[
+				"git:ss",
+				"Git: Status"
+			],
+			[
+				"relao",
+				"TernJS: Reload"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tern",
+				"TernJS: Previous Occurance"
+			],
+			[
+				"reloa",
+				"TernJS: Reload"
+			],
+			[
+				"relaod",
+				"TernJS: Reload"
+			],
+			[
+				"Ter",
+				"TernJS: Reload"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrade package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"set untiy",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"set unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 330.0,
+		"history":
+		[
+			"settings",
+			"view.score_selector(0)",
+			"view.score_selector",
+			"view",
+			"settings",
+			"Ternjs",
+			"Ternjs:reload",
+			"remove",
+			"ll",
+			"1+1",
+			"cls",
+			"clear",
+			"from __future__ import print_function",
+			"# ***** BEGIN LICENSE BLOCK *****",
+			"bye",
+			"exit",
+			"cls",
+			"1 + 1",
+			"hellow",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/PhoneGap_works/test/www"
+	],
+	"file_history":
+	[
+		"/c/users/easyfrog/appdata/local/temp/javascript.sublime-project",
+		"/E/PhoneGap_works/test/platforms/platforms.json",
+		"/E/PhoneGap_works/test/config.xml",
+		"/E/PhoneGap_works/nubiaz9/config.xml",
+		"/D/Program Files (x86)/Git/projects/js/wx/wx.js",
+		"/C/Users/easyfrog/AppData/Local/Temp/nubia Z9_edge.js",
+		"/D/Program Files (x86)/Git/projects/js/com/count.js",
+		"/E/PhoneGap_works/HelloPhoneGap/www/index.html",
+		"/D/Program Files (x86)/Git/projects/upload_files_demo.html",
+		"/E/myhost/nubia Z9/main.js",
+		"/E/myhost/nubia Z9/main.min.js",
+		"/E/Away3D/NubiaZ9Mobile/XuanJuKeAndroid-app.xml",
+		"/D/Program Files (x86)/Git/projects/js/db/jsonpMongo.js",
+		"/D/Program Files (x86)/Git/projects/js/wx/appInfo.js",
+		"/E/EdgeWorks/utils/general/ajax.js",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files (x86)/Git/projects/js/mime/mime.js",
+		"/D/Program Files (x86)/Git/projects/openshift.sublime-project",
+		"/D/Program Files (x86)/Git/projects/js/file/getStaticFile.js",
+		"/D/Program Files (x86)/Git/projects/test.html",
+		"/D/Program Files (x86)/Git/projects/js/test/middleware.js",
+		"/D/Program Files (x86)/Git/projects/index.html",
+		"/D/libs/mrdoob-three.js-c66ce34/utils/npm/footer.js",
+		"/D/libs/mrdoob-three.js-c66ce34/utils/npm/header.js",
+		"/D/Program Files (x86)/Git/projects/server.js",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/TernJS/Default.sublime-keymap",
+		"/D/Program Files (x86)/Git/projects/package.json",
+		"/E/myhost/ExpressTest/package.json",
+		"/c/users/easyfrog/appdata/local/temp/tools.js",
+		"/D/Program Files (x86)/Git/projects/node_modules/mongodb/node_modules/bson/browser_build/bson.js",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/D/Program Files (x86)/Git/projects/js/route.js",
+		"/C/Users/easyfrog/Desktop/For.sublime-snippet",
+		"/c/users/easyfrog/appdata/local/temp/wx.js",
+		"/c/users/easyfrog/appdata/local/temp/index.html",
+		"/D/Program Files (x86)/Git/projects/.gitignore",
+		"/D/Program Files (x86)/Git/projects/js/file/dofile.js",
+		"/D/Program Files (x86)/Git/projects/js/file/fss.js",
+		"/E/UnityProjects/shunyi/Rex_Scene/Assets/Scripts/CardboardCamera/FocusEventsHandler.cs",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/F/aaa/MyHtml.html",
+		"/C/Users/easyfrog/Desktop/yesky-out/yesky.js",
+		"/C/Users/easyfrog/Desktop/yesky-out/index.html",
+		"/F/aaa/kk.html",
+		"/E/UnityProjects/RunDemo_Android/Assets/Scripts/RunningMan.cs",
+		"/C/Users/easyfrog/Desktop/ResourceChecker.cs",
+		"/D/cabinet/main/source/bin/assets/resources/material.xml",
+		"/C/Users/easyfrog/AppData/Roaming/npm/node_modules/supervisor/lib/supervisor.js",
+		"/D/Program Files (x86)/Git/projects/deplist.txt",
+		"/C/Users/easyfrog/Desktop/wx_share(1).html",
+		"/E/work/天极/项目/欧派/201503/new_configs/materialInterface.xml",
+		"/E/work/天极/项目/欧派/201503/new_configs/defaultMaterials.xml",
+		"/E/work/天极/项目/欧派/201503/new_configs/material.xml",
+		"/C/Users/easyfrog/Desktop/rarreg.key",
+		"/D/Program Files/WinRAR/rarreg.key",
+		"/C/Users/easyfrog/Desktop/material.xml",
+		"/C/Users/easyfrog/Desktop/defaultMaterials.xml",
+		"/D/Program Files (x86)/Git/projects/node_modules/formidable/lib/incoming_form.js",
+		"/D/Program Files (x86)/Git/projects/node_modules/formidable/package.json",
+		"/C/Users/easyfrog/Desktop/NODE.js入门手册.pdf",
+		"/D/Program Files (x86)/Git/projects/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/C/Users/easyfrog/Desktop/server.js",
+		"/E/myhost/nodeWorks/HttpServer/httpServer.js",
+		"/D/Program Files (x86)/Git/projects/js/jsonpMongo.js",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/E/myhost/nodeWorks/test/test.html",
+		"/C/Users/easyfrog/.ssh/id_rsa.pub",
+		"/E/myhost/nodeWorks/HttpServer/jsonpMongo.js",
+		"/E/myhost/nodeWorks/wechat-JS-SDK-demo-master/nodejs/apps-info.js",
+		"/E/PhoneGap_works/HelloPhoneGap/config.xml",
+		"/E/WebStorm_projects/Games/Intel_1111/index.html",
+		"/E/百度云同步盘/materialInterface.xml",
+		"/E/PhoneGap_works/HelloPhoneGap/www/css/index.css",
+		"/E/PhoneGap_works/HelloPhoneGap/www/js/index.js",
+		"/E/myhost/nodeWorks/blog/app.js",
+		"/E/myhost/nodeWorks/blog/node_modules/express/lib/application.js",
+		"/E/myhost/nodeWorks/blog/routes/index.js",
+		"/E/myhost/nodeWorks/blog/routes/users.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/myhost/nodeWorks/node_modules/mongodb/node_modules/bson/browser_build/bson.js",
+		"/D/Program Files/Android/Android Studio/bin/idea.properties",
+		"/E/myhost/nodeWorks/blog/node_modules/cookie-parser/index.js",
+		"/E/myhost/nodeWorks/blog/node_modules/express/lib/view.js",
+		"/E/myhost/nodeWorks/blog/node_modules/ejs/ejs.js",
+		"/E/myhost/nodeWorks/libs/ztc/ajax.js",
+		"/E/myhost/nodeWorks/nodeWorks.sublime-project",
+		"/E/百度云同步盘/自己写的有用的程序/MaxScripts/MXSPM/CGlobal.mcr",
+		"/E/myhost/nodeWorks/test/main.js",
+		"/E/myhost/nodeWorks/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/E/myhost/nodeWorks/HttpServer/Mongo.js",
+		"/E/myhost/nodeWorks/node_modules/mongodb/lib/mongodb/db.js",
+		"/E/myhost/nodeWorks/node_modules/mongodb/lib/mongodb/collection.js",
+		"/E/myhost/nodeWorks/node_modules/mongodb/lib/mongodb/collection/core.js",
+		"/C/Users/easyfrog/AppData/Roaming/npm/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/D/Qt/test.js",
+		"/E/myhost/S7/s7.sublime-project",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/TernJS/ternjs/plugin/node.js",
+		"/E/myhost/S7/js/loaders/sea3d/SEA3D.js",
+		"/C/Users/easyfrog/AppData/Roaming/npm/node_modules/mongodb/index.js",
+		"/E/myhost/S7/js/controls/DeviceOrientationControls.js",
+		"/E/myhost/S7/js/loaders/sea3d.min.js",
+		"/E/WebStorm_projects/WebShow/index.html",
+		"/E/myhost/S7/js/threejs/three.js",
+		"/E/myhost/S7/js/webShow/SceneHandler.js",
+		"/C/Users/easyfrog/Desktop/安装上传01-1.ms",
+		"/E/myhost/WebShowBase/webshowbase.sublime-project",
+		"/E/myhost/WebShowBase/index.html",
+		"/E/myhost/WebShowBase/js/webShow/SceneHandler.js",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/TernJS/tern.py",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/E/myhost/WebShowBase/gui.html",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/easyfrog/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/E/myhost/WebShowBase/js/loaders/sea3d/SEA3DLoader.js",
+		"/E/myhost/WebShowBase/js/loaders/sea3d.min.js",
+		"/E/myhost/WebShowBase/js/controls/myControls.js",
+		"/E/myhost/WebShowBase/test.js",
+		"/E/myhost/WebShowBase/ttt.js",
+		"/E/myhost/WebShowBase/js/threejs/three.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Stamp",
+			"timestamp",
+			"TimeStamp",
+			"timeStamp",
+			"jssha",
+			"jsSHA",
+			"getTicket",
+			"			\n",
+			";\n",
+			"				\n",
+			"		var f;\n\n		while(f)",
+			"[];\n",
+			"setHeader",
+			"{\n",
+			"');\n",
+			"			",
+			"\n		// set mongodb url : \n		// queryJson.url = queryJson.url || mgUrl;",
+			"listen",
+			"host",
+			"var",
+			"path",
+			"D111H(AM)",
+			"16G",
+			"F8830LI",
+			"F88",
+			"262",
+			"G16",
+			"D111-Y",
+			"D111",
+			"d",
+			">\n",
+			"D111",
+			"materialDscp",
+			"1379",
+			"productID",
+			"appSecret",
+			"';\n",
+			"json",
+			"getticket",
+			"getTicket",
+			"calcSignature",
+			"pathName",
+			":{},\n",
+			"_res",
+			"');\n",
+			"delta",
+			"myBtn",
+			"fresnel",
+			");\n",
+			"    // Edge stuff\n    var compID,composition,stage,threeDiv;\n\n    // Edge 加载完成\n    AdobeEdge.bootstrapCallback(function(id) {\n        compID      = id;\n        composition = AdobeEdge.getComposition(id);\n        stage       = composition.getStage();\n        \n        threeDiv    = stage.$('container')[0];\n\n        addEvents();\n\n        // initialize\n        init();\n\n    });",
+			"    <!--Adobe Edge Runtime-->\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\">\n        <script type=\"text/javascript\" charset=\"utf-8\" src=\"http://animate.adobe.com/runtime/5.0.0/edge.5.0.0.min.js\"></script>\n        <style>\n            .edgeLoad-EDGE-83385297 { visibility:hidden; }\n        </style>\n        <script>\n            AdobeEdge.loadComposition('gui', 'EDGE-83385297', {\n                scaleToFit: \"none\",\n                centerStage: \"none\",\n                minW: \"0\",\n                maxW: \"undefined\",\n                width: \"100%\",\n                height: \"100%\"\n            }, {\"dom\":{}}, {\"dom\":{}});\n        </script>\n    <!--Adobe Edge Runtime End-->",
+			"update",
+			"\n// place camera\n// in scene",
+			"prototype",
+			"user_settings",
+			"settings",
+			"syntax_scopes",
+			"anti",
+			"setting",
+			"var t = new THREE.FirstPersonControls(object, domElement);\nvar m = new MyControls(param1, param2);\nm.Func1(parma);\n\nvar s = new Man(name, age);\ns.sayHello(words);",
+			"var md = MyControls(param1, param2);\nmd.",
+			" ",
+			"getElementById",
+			"12",
+			"Menlo",
+			"KK",
+			"My",
+			"sider",
+			"slide",
+			"slider",
+			"基础场景",
+			"KK",
+			"	\"Python\": {\n		\"pythonExtraPaths\": [\n			\"libs\",\n			\"~/Applications/Sublime Text.app/Contents/MacOS\",\n			\"/Applications/Sublime Text.app/Contents/MacOS\"\n		],\n		\n	}",
+			"/*\n",
+			"4700",
+			"4239",
+			"    var obj;\n\n    if (window.TT) {\n        obj = new TT.AAA('zqh',3 );\n        obj.sayHello('marry Christmas!');\n    };",
+			"onComplete = (function(){\n	\n})()",
+			"();\n",
+			"SceneHolder",
+			"SceneHandler",
+			"Fly",
+			"true",
+			"false",
+			"Fir",
+			".\n",
+			"false",
+			" )",
+			"pe.getPickZ = function(e, index) {\n	index = index || 0;\n	return e.touches ? e.touches[0].pageX || e.pageX;\n	return\n};",
+			"control",
+			"Control",
+			"control",
+			"menlo",
+			"tab",
+			"Vector3 from",
+			"();",
+			"Uint8Array",
+			"    /*\n    var easyUI;\n    function initUI() {\n        // UI Root\n        easyUI = new EasyUI();\n        // UI Button\n        var btn = new EasyUI.Button({\n            text:\"自动旋转/取消\",\n            width:150,\n            height:40,\n            y:20,\n            anchor:EasyUI.TOP_MIDDLE,\n            click:function() {\n                control.autoRotate = !control.autoRotate;\n            }\n        });\n        // test Button\n        var speed = -1;\n        var btn2 = new EasyUI.Button({\n            text: \"打开/关闭\",\n            width: 150,\n            height: 40,\n            y: -20,\n            anchor:EasyUI.BOTTOM_MIDDLE,\n            click: function () {\n                if (speed == -1)\n                    speed = 1;\n                else\n                    speed = -1;\n                sh.play(\"close\",speed);\n            }\n        });\n        // append button to ui root\n        easyUI.append(btn);\n        easyUI.append(btn2);\n    }\n    */",
+			"currentIndex",
+			"function",
+			"	\n",
+			";\n",
+			"page",
+			"debug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"productModel",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.git-commit":
+	{
+		"height": 120.0
+	},
+	"output.git-fetch":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 132.0
+	},
+	"output.git-pull":
+	{
+		"height": 132.0
+	},
+	"output.git-push":
+	{
+		"height": 280.0
+	},
+	"output.git-remote":
+	{
+		"height": 120.0
+	},
+	"output.variable_get":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "pgtest.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wx",
+				"js\\wx\\wx.js"
+			],
+			[
+				"do",
+				"js\\file\\dofile.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"mycon",
+				"js\\controls\\myControls.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"tt",
+				"ttt.js"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"ttt",
+				"ttt.js"
+			],
+			[
+				"gui",
+				"gui.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"my",
+				"js\\controls\\myControls.js"
+			],
+			[
+				"base",
+				"js\\webShow\\BaseScene.js"
+			],
+			[
+				"tes",
+				"test.js"
+			],
+			[
+				"read",
+				"assets\\texture\\cubeMaps\\Bridge2\\readme.txt"
+			],
+			[
+				"edge",
+				"gui_edge.js"
+			],
+			[
+				"ocu",
+				"js\\controls\\OculusControls.js"
+			],
+			[
+				"fly",
+				"js\\controls\\FlyControls.js"
+			],
+			[
+				"thre",
+				"WebShow\\js\\threejs\\three.js"
+			],
+			[
+				"",
+				"WebShow\\js\\threejs\\Detector.js"
+			],
+			[
+				"sea",
+				"WebShow\\js\\loaders\\sea3d\\SEA3D.js"
+			],
+			[
+				"ed",
+				"E:\\EdgeWorks\\utils\\edgeUtils.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\EdgeWorks\\utils\\utils.sublime-project"
+			],
+			[
+				"u",
+				"E:\\EdgeWorks\\utils\\utils.sublime-project"
+			],
+			[
+				"nu",
+				"E:\\myhost\\nubia Z9\\nubiaz9.sublime-project"
+			],
+			[
+				"ope",
+				"D:\\Program Files (x86)\\Git\\projects\\openshift.sublime-project"
+			],
+			[
+				"web",
+				"E:\\myhost\\WebShowBase\\webshowbase.sublime-project"
+			],
+			[
+				"s",
+				"E:\\myhost\\S7\\s7.sublime-project"
+			],
+			[
+				"node",
+				"E:\\myhost\\nodeWorks\\nodeWorks.sublime-project"
+			],
+			[
+				"ex",
+				"E:\\myhost\\ExpressTest\\ExpressTest.sublime-project"
+			],
+			[
+				"app",
+				"E:\\myhost\\webapp\\webapp.sublime-project"
+			],
+			[
+				"re",
+				"E:\\UnityProjects\\shunyi\\Rex_Scene\\Rex.sublime-project"
+			],
+			[
+				"no",
+				"E:\\myhost\\nodeWorks\\nodeWorks.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ani",
+				"Animation"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

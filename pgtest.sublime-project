@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":[
+				"*.sublime*",
+				"*.zip"
+			],
+			"folder_exclude_patterns":[
+				"node_modules"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"ternjs":
+	{
+		"exclude":
+		[
+			"**/*.min.js"
+		],
+		"include":
+		[
+			"**/*.js"
+		],
+		"libs":
+		[
+			"browser",
+			"jquery"
+		]
+	},
+	"ignored_packages":[
+		"OmniSharp"
+	]
+}
